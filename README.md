@@ -15,16 +15,24 @@ Présentation du projet structuré pour le cours de solution de versionning.
 ## Install
 
 ```
+composer install laravel
+docker-compose up -d
+cp .env.exemple .env
 ```
 
 ## Usage
 
 ```
+docker-compose start
 ```
 
 ## Maintainers
 
 [@DivinEat](https://github.com/DivinEat)
+[@taoberquer](https://github.com/taoberquer)
+[@tdargent1](https://github.com/tdargent1)
+[@LudovicCollignon](https://github.com/LudovicCollignon)
+[@remibrat](https://github.com/remibrat)
 
 ## Contributing
 
